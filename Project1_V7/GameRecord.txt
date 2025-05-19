@@ -1,0 +1,2 @@
+Game 1: Money Before: $1, Result: win, Money After: $4
+Game 2: Money Before: $4, Result: lose, Money After: $0
